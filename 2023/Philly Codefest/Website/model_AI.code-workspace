@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/male_head_sculpt"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "model_AI"
+    }
+}
